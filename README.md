@@ -15,12 +15,12 @@ The Purpose of this project is to perform an analysis on an Amazon product datas
 For this project, I chose to use the shoes dataset to perform my analysis. I loaded the dataset into Colab and extracted data into 4 different dataframes, customer_id, products_df, review_id_df, and vine_df. After extracting the dataframes, I used AWS to create and connect a server to pgAdmin to load my dataframes into a SQL database. Next, I used the vines dataframe to preform calculations to see if there are any bias of paid and unpaid reviews based on 5-star rated reviews and total votes. I also calculated percent of the votes being 5-star rated.  
 
 **Results:**  
-### Vine Reviews (paid)  
+**Vine Reviews (paid)**  
 - total vine reviews = 22  
 - 5-star reviews = 13  
 - % of 5-star reviews = 59.09%  
 
-### Non-Vine Reviews (unpaid)  
+**Non-Vine Reviews (unpaid)**  
 - total vine reviews = 26987  
 - 5-star reviews = 14475  
 - % of 5-star reviews = 53.64%  
