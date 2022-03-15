@@ -28,10 +28,10 @@ For this project, I chose to use the shoes dataset to perform my analysis. I loa
 ## Summary  
 
 **Conclusion**  
-The purpose of this project is to perfrom an analysis on an Amazon product dataset to determine if there are any bias for paid and unpaid reviews. According to our results, we can see that there are very minimal number of paid reviews compared to unpaid reviews that are rated 5-stars. The percentage of reviews are also very similar to each other, even though the quantity of 5-star reviews differ by so much. I would think that if there are any bias within the Amazon Vine Program, there would be greater number of 5-star reviews so consumers would be more willing to purchase those products. Another analysis I would perform the same calculations with combined 4 and 5 star reviews as 4 and 5 star reviews can sway consumers to purchase those products.  
+The purpose of this project is to perfrom an analysis on an Amazon product dataset to determine if there are any bias for paid and unpaid reviews. According to our results, we can see that there are very minimal number of paid reviews compared to unpaid reviews that are rated 5-stars. The percentage of reviews are also very similar to each other, even though the quantity of 5-star reviews differ by so much. I would think that if there are any bias within the Amazon Vine Program, there would be greater number of 5-star reviews so consumers would be more willing to purchase those products. Another analysis I would perform would be the same calculations with combined 4 and 5 star reviews because 4 and 5 star reviews are still positive and can sway consumers to purchase those products.  
 
 ### Codes Used  
 (Please look at specific files for codes used)  
 Code for [creating the four tables](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Amazon_Reviews_ETL.ipynb)  
-(NOTE: Error did occur when creating review_id_table due to data already loaded into SQL database)
+(NOTE: Error did occur when creating review_id_table due to data already loaded into SQL database)  
 Code for [vine_review calculations](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Vine_Review_Analysis.ipynb)  
