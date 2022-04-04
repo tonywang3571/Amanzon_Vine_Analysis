@@ -33,5 +33,5 @@ The purpose of this project is to perfrom an analysis on an Amazon product datas
 ### Codes Used  
 (Please look at specific files for codes used)  
 Code for [creating the four tables](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Amazon_Reviews_ETL.ipynb)  
-(NOTE: Error did occur when creating review_id_table due to data already loaded into SQL database)  
+(NOTE: Error noted when creating review_id_table due to data already loaded into SQL database)  
 Code for [vine_review calculations](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Vine_Review_Analysis.ipynb)  
